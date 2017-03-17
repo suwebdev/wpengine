@@ -1,3 +1,3 @@
 [submodule "wp-content/themes/ncs-michigan"]
 	path = wp-content/themes/ncs-michigan
-	url = git@github.com:suwebdev/ncs-michigan.git
+	url = https://github.com/suwebdev/ncs-michigan.git
