@@ -1,0 +1,254 @@
+/*
+Visual Composer Webnus edit (4.6)
+
+ ** Theme Name: Michigan **
+------------------------------ */
+
+/* lifterlms dashboard */
+.wrap.lifterlms .llms-nav-tab-wrapper .llms-nav-tab-active {background: #31b8d4;}
+
+
+
+#setting-error-tgmpa.update-nag{display: block;}
+
+#TB_overlay {z-index: 1055;}
+#TB_window {z-index: 100050!important; position: fixed!important;}
+
+.wpb_content_element > .wpb_element_wrapper { background-color:#fdfdfd !important;}
+
+i.vc_element-icon[class*="webnus-"] {background-image: url(./images/w-elements.png);}
+
+/* Advanced Search */
+.taxonomy-search.vc_element-icon  {background-position: 0 0;}
+
+/* Course Category */
+.webnus-courses.vc_element-icon  {background-position: 0 -32px;}
+
+/* Date Box */
+.webnus-datebox.vc_element-icon  {background-position: 0 -64px;}
+
+/* Webnus Enrolment */
+.webnus-enrolment.vc_element-icon  {background-position: 0 -96px;}
+
+/* Webnus Events */
+.webnus-events.vc_element-icon  {background-position: 0 -128px;}
+
+/* Webnus Course Category */
+.webnus-excursion-program.vc_element-icon  {background-position: 0 -160px;}
+
+/* Webnus Course Category */
+.webnus-excursion.vc_element-icon  {background-position: 0 -192px;}
+
+/* Webnus Food Menu */
+.webnus-food-menu.vc_element-icon  {background-position: 0 -224px;}
+
+/* Webnus Goals */
+.webnus-goals.vc_element-icon  {background-position: 0 -256px;}
+
+/* Course Instructors */
+.webnus-course-instructors.vc_element-icon  {background-position: 0 -288px;}
+
+/* Latest News */
+.webnus-latestnews.vc_element-icon  {background-position: 0 -320px;}
+
+/* Our Classes */
+.webnus-classes.vc_element-icon  {background-position: 0 -352px;}
+
+/* Single Course */
+.webnus-acourse.vc_element-icon  {background-position: 0 -384px;}
+
+/* Single Goal */
+.webnus-agoal.vc_element-icon  {background-position: 0 -416px;}
+
+/* Slideup Note */
+.webnus-slideup.vc_element-icon  {background-position: 0 -448px;}
+
+/* Webnus Subscribe */
+.webnus-subscribe.vc_element-icon  {background-position: 0 -480px;}
+
+/* Webnus Divider */
+.webnus-divider.vc_element-icon  {background-position: 0 -512px;}
+
+/* Webnus Distance */
+.webnus-distance.vc_element-icon  {background-position: 0 -544px;}
+
+/* Webnus FAQ */
+.webnus-faq.vc_element-icon  {background-position: 0 -576px;}
+
+/* Icon Box */
+.webnus-iconbox.vc_element-icon  {background-position: 0 -608px;}
+
+/* Latest From Blog */
+.webnus-latestfromblog.vc_element-icon  {background-position: 0 -640px;}
+
+/* Our Clients */
+.webnus-ourclients.vc_element-icon  {background-position: 0 -672px;}
+
+/* Colored List */
+.webnus-coloredlist.vc_element-icon  {background-position: 0 -704px;}
+
+/* Max Counter */
+.webnus-maxcounter.vc_element-icon  {background-position: 0 -736px;}
+
+/* Webnus Ministry */
+.webnus-ministry.vc_element-icon  {background-position: 0 -768px;}
+
+/* Our Team */
+.webnus-ourteam.vc_element-icon  {background-position: 0 -800px;}
+
+/* Webnus Button */
+.webnus-button.vc_element-icon  {background-position: 0 -832px;}
+
+/* Donate Button */
+.webnus-donate-button.vc_element-icon  {background-position: 0 -864px;}
+
+/* Testimonial Slider */
+.webnus-testimonialslider.vc_element-icon  {background-position: 0 -896px;}
+
+/* Webnus Callout */
+.webnus-callout.vc_element-icon  {background-position: 0 -928px;}
+
+/* Twitter Feed */
+.webnus-twitterfeed.vc_element-icon  {background-position: 0 -960px;}
+
+/* Video Play Button */
+.webnus-videoplay.vc_element-icon  {background-position: 0 -992px;}
+
+/* Webnus Icon */
+.webnus-icon.vc_element-icon  {background-position: 0 -1024px;}
+
+/* Social Follow */
+.webnus-socialfollow.vc_element-icon  {background-position: 0 -1056px;}
+
+/* Webnus Quote */
+.webnus-quote.vc_element-icon  {background-position: 0 -1088px;}
+
+/* Teaser Box */
+.webnus-teaserbox.vc_element-icon  {background-position: 0 -1120px;}
+
+/* Webnus Blog */
+.webnus-blog.vc_element-icon  {background-position: 0 -1152px;}
+
+/* Post From Blog */
+.webnus-postfromblog.vc_element-icon  {background-position: 0 -1184px;}
+
+/* Webnus Countdown */
+.webnus-countdown.vc_element-icon  {background-position: 0 -1216px;}
+
+/* Webnus Maxtitle */
+.webnus-maxtitle.vc_element-icon  {background-position: 0 -1248px;}
+
+/* Webnus Bigtitle */
+.webnus-big_title.vc_element-icon  {background-position: 0 -1280px;}
+
+/* Webnus Subtitle */
+.webnus-subtitle1.vc_element-icon  {background-position: 0 -1312px;}
+
+/* Tagline Slider */
+.webnus-taglineslider.vc_element-icon  {background-position: 0 -1344px;}
+
+/* Webnus List */
+.webnus-list.vc_element-icon  {background-position: 0 -1376px;}
+
+/* Webnus Divider */
+.webnus-wicon.vc_element-icon  {background-position: 0 -1408px;}
+
+/* Google Map */
+.webnus-google-map.vc_element-icon  {background-position: 0 -1440px;}
+
+/* Webnus Link */
+.webnus-link.vc_element-icon  {background-position: 0 -1472px;}
+
+/* Process Item */
+.webnus-process.vc_element-icon  {background-position: 0 -1504px;}
+
+/* Box Link */
+.webnus-boxlink.vc_element-icon  {background-position: 0 -1536px;}
+
+/* Category Box */
+.webnus-categorybox.vc_element-icon  {background-position: 0 -1568px;}
+
+/* Double Promo */
+.webnus-doublepromo.vc_element-icon  {background-position: 0 -1600px;}
+
+/* Webnus Paragraph */
+.webnus-paragraph.vc_element-icon  {background-position: 0 -1632px;}
+
+/* Webnus Dropcap */
+.webnus-dropcap.vc_element-icon  {background-position: 0 -1664px;}
+
+/* Webnus Alert */
+.webnus-alert.vc_element-icon  {background-position: 0 -1696px;}
+
+/* Webnus Line */
+.webnus-line.vc_element-icon  {background-position: 0 -1728px;}
+
+/* Webnus Tooltip */
+.webnus-tooltip.vc_element-icon  {background-position: 0 -1760px;}
+
+/* Pricing Table */
+.webnus-pricingtable.vc_element-icon  {background-position: 0 -1792px;}
+
+/* Course Category */
+.webnus-course-category.vc_element-icon  {background-position: 0 -1824px;}
+
+/* Single Event */
+.webnus-anevent.vc_element-icon  {background-position: 0 -1856px;}
+
+/* Single Testimonial */
+.webnus-testimonial.vc_element-icon  {background-position: 0 -1888px;}
+
+/* Our Curriculum */
+.webnus-ourcurriculum.vc_element-icon  {background-position: 0 -1920px;}
+
+/* Webnus Certificate */
+.webnus-certificate.vc_element-icon  {background-position: 0 -1952px;}
+
+/* Contact Info */
+.webnus-contact-info.vc_element-icon  {background-position: 0 -1984px;}
+
+/* Testimonial Carusel */
+.webnus-testimonial-carousel.vc_element-icon  {background-position: 0 -2016px;}
+
+/* Time Table */
+.webnus-time-table.vc_element-icon  {background-position: 0 -2048px;}
+
+
+
+/* webnus icon fonts */
+.webnus-iconfonts-wrapper table td{height:40px;}
+.webnus-iconfonts-wrapper table{height:40px;table-layout:fixed;}
+.webnus-icons-list-wrapper{ overflow:auto; margin: 0;}
+.webnus-icons-list {min-height:400px;list-style:none;overflow:auto;}
+.webnus-icons-list li{width:40px;display:inline-block; list-style:none; padding:0;}
+.webnus-icons-list li label{color:#777777; display:inline-block !important; float:none !important; width:33px !important; text-align:center; font-size:23px !important; font-weight:normal !important; padding:5px 0 !important; border:1px solid #eee !important;}
+.webnus-icons-list li label:hover {background:#eee; border:1px solid #ccc !important;}
+.webnus-icons-list li input[type="radio"]:checked+label {background: #f3abb2; border: 1px solid #e53f51 !important; color:#222;}
+.webnus-icons-list input{visibility:hidden; margin: 0; padding:0; width: 1px; height: 1px; filter:alpha(opacity=0); -moz-opacity:0; -khtml-opacity: 0; opacity: 0; cursor: pointer; }
+
+/* Menu Fix */
+.menu-item-edit-active .menu-item-settings { overflow: hidden; }
+
+/* Page Options */
+.rwmb-input .rwmb-image-select {width: 47%; height: 67px; }
+
+/* VC Section Style */
+.wpb_vc_section .vc_section-bottom-controls, .wpb_vc_section>.wpb_element_wrapper {background: #e6e6e6;}
+.wpb_vc_section .wpb_vc_row .vc_controls-row .vc_control { background: #eee; }
+a.vc_control:hover {color: #437df9;}
+
+
+/* vc copy section and row */
+.vc_navbar .vc_icon-btn i { color: #4F5C64; position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%,-50%); -ms-transform: translate(-50%,-50%); transform: translate(-50%,-50%); }
+.vc_controls-row .wn-vc-copy { float: left; margin-left: 1px; position: relative;}
+.vc_navgar-frontend.vc_navbar .vc_icon-btn i { color: #fff;}
+.vc_navgar-frontend a.vc_icon-btn.vc_navbar-border-right.wn-vc-row,.vc_navgar-frontend a.vc_icon-btn.vc_navbar-border-right.wn-vc-paste { display: none;}
+
+/* tooltip */
+[data-wntooltip] { position: relative;}
+[data-wntooltip]:before, [data-wntooltip]:after { opacity: 0; visibility: hidden; -webkit-transition: all 0.18s ease; transition: all 0.18s ease;}
+[data-wntooltip]:before { content: attr(data-wntooltip); position: absolute; bottom: -27px; left: 50%; padding: 0 8px; background-color: #010101; border-radius: 0; color: #fff; text-align: center; font-size: 10px; text-transform: uppercase; font-weight: 500; height: 23px; line-height: 23px; white-space: nowrap; letter-spacing: 1px; z-index: 88; transform: translate(-50%,0); -webkit-transform: translate(-50%,0);}
+[data-wntooltip]:after {content: ''; position: absolute; bottom: -4px; right: 50%; margin-right: -4px; width: 0; border-width: 4px; border-style: solid; border-color: transparent transparent #010101 transparent;}
+[data-wntooltip]:hover:before, [data-wntooltip]:hover:after { opacity: 1; visibility: visible;}
+
+/* end */

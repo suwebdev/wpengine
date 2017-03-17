@@ -1,0 +1,162 @@
+<?php
+vc_map( array(
+			'name'			=> esc_html__( 'Our Team Carousel', 'michigan' ),
+			'base'			=> 'our_team_carousel',
+			'description'	=> esc_html__( 'Our Team Carousel', 'michigan' ),
+			'icon'			=> 'webnus-ourteam',
+			'category'		=> esc_html__( 'Webnus Shortcodes', 'michigan' ),
+			'params'		=> array(
+					array(
+						'type'			=> 'param_group',
+						'heading'		=> esc_html__( ' Team Item ', 'michigan' ),
+						'description'	=> esc_html__( ' Please Add Your Item ', 'michigan' ),
+						'param_name'	=> 'carousel_item',
+						'value' 		=> '',
+						'params'		=> array(
+						
+							array(
+								'type'			=> 'textfield',
+								'heading'		=> esc_html__( ' Team Title ', 'michigan' ),
+								'description'	=> esc_html__( ' Please enter your title ', 'michigan' ),
+								'param_name'	=> 'team_title',
+								'value'			=> '',
+								'admin_label'	=> true,
+							),
+							array(
+								'type'			=> 'textfield',
+								'heading'		=> esc_html__( 'Team Subtitle', 'michigan' ),
+								'description'	=> esc_html__( ' Please enter your Subtitle ', 'michigan' ),
+								'param_name'	=> 'team_subtitle',
+								'value'			=> '',
+							),
+							array(
+								'type'			=> 'textarea',
+								'heading'		=> esc_html__( 'Team Content', 'michigan' ),
+								'description'	=> esc_html__( ' Please enter your content ', 'michigan' ),
+								'param_name'	=> 'team_content',
+								'value'			=> '',
+							),
+							array(
+								'type'			=> 'attach_image',
+								'heading'		=> esc_html__( 'Select image', 'michigan' ),
+								'description'	=> esc_html__( ' Please enter your content ', 'michigan' ),
+								'param_name'	=> 'team_image',
+								'value'			=> '',
+							),
+							array(
+								'type'			=> 'dropdown',
+								'heading'		=> esc_html__( 'Select First Social', 'michigan' ),
+								'description'	=> esc_html__( ' Please select first social ', 'michigan' ),
+								'param_name'	=> 'team_first_social',
+								'value'			=> array(
+													"Please sellect Your Social Media"=>'',
+													"Twitter"=>'twitter',
+													"Facebook"=>'facebook',
+													"Google Plus"=>'google-plus',
+													"Vimeo"=>'vimeo',
+													"Dribbble"=>'dribbble',
+													"Youtube"=>'youtube',
+													"Youtube"=>'youtube',
+													"Pinterest"=>'pinterest',
+													"LinkedIn"=>'linkedin',
+													"Instagram"=>'instagram',
+												)
+							),
+							array(
+								'type'			=> 'textarea',
+								'heading'		=> esc_html__( 'Enter First Social URL', 'michigan' ),
+								'description'	=> esc_html__( ' Please enter first social URL ', 'michigan' ),
+								'param_name'	=> 'team_first_social_url',
+								'value'			=> '',
+							),
+							array(
+								'type'			=> 'dropdown',
+								'heading'		=> esc_html__( 'Select Second Social', 'michigan' ),
+								'description'	=> esc_html__( ' Please select second social ', 'michigan' ),
+								'param_name'	=> 'team_second_social',
+								'value'			=> array(
+													"Please sellect Your Social Media"=>'',
+													"Twitter"=>'twitter',
+													"Facebook"=>'facebook',
+													"Google Plus"=>'google-plus',
+													"Vimeo"=>'vimeo',
+													"Dribbble"=>'dribbble',
+													"Youtube"=>'youtube',
+													"Youtube"=>'youtube',
+													"Pinterest"=>'pinterest',
+													"LinkedIn"=>'linkedin',
+													"Instagram"=>'instagram',
+												)
+							),
+							array(
+								'type'			=> 'textarea',
+								'heading'		=> esc_html__( 'Enter second Social URL', 'michigan' ),
+								'description'	=> esc_html__( ' Please select second social URL', 'michigan' ),
+								'param_name'	=> 'team_second_social_url',
+								'value'			=> '',
+							),
+							array(
+								'type'			=> 'dropdown',
+								'heading'		=> esc_html__( 'Select Third Social', 'michigan' ),
+								'description'	=> esc_html__( ' Please select third social ', 'michigan' ),
+								'param_name'	=> 'team_third_social',
+								'value'			=> array(
+													"Please sellect Your Social Media"=>'',
+													"Twitter"=>'twitter',
+													"Facebook"=>'facebook',
+													"Google Plus"=>'google-plus',
+													"Vimeo"=>'vimeo',
+													"Dribbble"=>'dribbble',
+													"Youtube"=>'youtube',
+													"Youtube"=>'youtube',
+													"Pinterest"=>'pinterest',
+													"LinkedIn"=>'linkedin',
+													"Instagram"=>'instagram',
+												)
+							),
+							array(
+								'type'			=> 'textarea',
+								'heading'		=> esc_html__( 'Enter Third Social URL', 'michigan' ),
+								'description'	=> esc_html__( ' Please select third social URL', 'michigan' ),
+								'param_name'	=> 'team_third_social_url',
+								'value'			=> '',
+							),
+							array(
+								'type'			=> 'dropdown',
+								'heading'		=> esc_html__( 'Select Fourth Social', 'michigan' ),
+								'description'	=> esc_html__( ' Please select fourth social ', 'michigan' ),
+								'param_name'	=> 'team_fourth_social',
+								'value'			=> array(
+													"Please sellect Your Social Media"=>'',
+													"Twitter"=>'twitter',
+													"Facebook"=>'facebook',
+													"Google Plus"=>'google-plus',
+													"Vimeo"=>'vimeo',
+													"Dribbble"=>'dribbble',
+													"Youtube"=>'youtube',
+													"Youtube"=>'youtube',
+													"Pinterest"=>'pinterest',
+													"LinkedIn"=>'linkedin',
+													"Instagram"=>'instagram',
+												)
+							),
+							array(
+								'type'			=> 'textarea',
+								'heading'		=> esc_html__( 'Enter Fourth Social URL', 'michigan' ),
+								'description'	=> esc_html__( ' Please select fourth social URL', 'michigan' ),
+								'param_name'	=> 'team_fourth_social_url',
+								'value'			=> '',
+							),
+
+						),
+					),
+					array(
+						'heading'		=> esc_html__( 'Carousel Items', 'michigan' ),
+						'description'	=> esc_html__( 'Please enter carousel items to show', 'michigan' ),
+						'type'			=> 'textfield',
+						'param_name'	=> 'item_carousle',
+						'value'			=> '',
+					),
+			)
+		)
+	);

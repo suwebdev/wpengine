@@ -1,0 +1,8 @@
+<h1 class="post-title-ps1">
+<?php esc_html_e( 'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.', 'michigan' ); 
+?>
+<hr class="vertical-space2">
+<?php
+get_search_form();
+?>
+</h1>

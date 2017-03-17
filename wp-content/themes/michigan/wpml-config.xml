@@ -1,0 +1,69 @@
+<wpml-config>
+	<admin-texts>
+		<key name="michigan_webnus_options">
+			<key name="michigan_webnus_space_before_head" />
+			<key name="michigan_webnus_space_before_body" />
+			<key name="michigan_webnus_slogan" />
+			<key name="michigan_webnus_nt_title" />
+			<key name="michigan_webnus_topbar_login_text" />
+			<key name="michigan_webnus_topbar_contact_text" />
+			<key name="michigan_webnus_topbar_text" />
+			<key name="michigan_webnus_blog_page_title" />
+			<key name="michigan_webnus_blog_readmore_text" />
+			<key name="michigan_webnus_footer_contact_address" />
+			<key name="michigan_webnus_footer_contact_email" />
+			<key name="michigan_webnus_footer_subscribe_text" />
+			<key name="michigan_webnus_footer_copyright" />
+			<key name="michigan_webnus_woo_shop_title" />
+			<key name="michigan_webnus_woo_product_title" />
+		</key>
+	</admin-texts>
+	<custom-types>
+		<custom-type translate="1">contact-form-7</custom-type>
+		<custom-type translate="1">courses</custom-type>
+		<custom-type translate="1">revslider</custom-type>
+		<custom-type translate="1">goal</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">course_type</taxonomy>
+		<taxonomy translate="1">course_cat</taxonomy>
+		<taxonomy translate="1">course_track</taxonomy>
+		<taxonomy translate="1">course_tag</taxonomy>
+		<taxonomy translate="1">course_difficulty</taxonomy>
+		<taxonomy translate="1">membership_cat</taxonomy>
+		<taxonomy translate="1">membership_tag</taxonomy>
+		<taxonomy translate="1">product_type</taxonomy>
+		<taxonomy translate="1">product_cat</taxonomy>
+		<taxonomy translate="1">product_tag</taxonomy>
+		<taxonomy translate="1">faq_category</taxonomy>
+		<taxonomy translate="1">goal_category</taxonomy>
+		<taxonomy translate="1">tribe_events_cat</taxonomy>
+		<taxonomy translate="1">essential_grid_category</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="translate">eg_html5_ratio</custom-field>
+		<custom-field action="translate">eg_settings_custom_meta_element</custom-field>
+		<custom-field action="translate">eg_settings_custom_meta_setting</custom-field>
+		<custom-field action="translate">eg_settings_custom_meta_skin</custom-field>
+		<custom-field action="translate">eg_settings_custom_meta_style</custom-field>
+		<custom-field action="translate">eg_soundcloud_ratio</custom-field>
+		<custom-field action="translate">eg_sources_html5_mp4</custom-field>
+		<custom-field action="translate">eg_sources_html5_ogv</custom-field>
+		<custom-field action="translate">eg_sources_html5_webm</custom-field>
+		<custom-field action="translate">eg_sources_iframe</custom-field>
+		<custom-field action="translate">eg_sources_image</custom-field>
+		<custom-field action="translate">eg_sources_soundcloud</custom-field>
+		<custom-field action="translate">eg_sources_vimeo</custom-field>
+		<custom-field action="translate">eg_sources_wistia</custom-field>
+		<custom-field action="translate">eg_sources_youtube</custom-field>
+		<custom-field action="translate">eg_vimeo_ratio</custom-field>
+		<custom-field action="translate">eg_wistia_ratio</custom-field>
+		<custom-field action="translate">eg_youtube_ratio</custom-field>
+		<custom-field action="translate">michigan_webnus_views</custom-field>
+		<custom-field action="translate">ratings_average</custom-field>
+		<custom-field action="translate">ratings_score</custom-field>
+		<custom-field action="translate">ratings_users</custom-field>
+	</custom-fields>
+</wpml-config>
+
+
